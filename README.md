@@ -1,2 +1,2 @@
 # WSSCI
-Syndromic surveillance using search query logs and user location information from smartphones against COVID-19 clusters in Japan
+Surveillance of early stage COVID-19 clusters using search query logs and smartphone-based location information
